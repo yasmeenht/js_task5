@@ -1,0 +1,27 @@
+[
+    {
+        "mealName": "burger", 
+        "price": "5jd",
+        "availability": "true"
+    }, 
+    {
+        "mealName": "zinger", 
+        "price": "3jd",
+        "availability": "true"
+    }, 
+    {
+        "mealName": "shawarma", 
+        "price": "4jd",
+        "availability": "true"
+    }, 
+    {
+        "mealName": "pizza", 
+        "price": "6jd",
+        "availability": "false"
+    }, 
+    {
+        "mealName": "pasta", 
+        "price": "5jd",
+        "availability": "false"
+    }
+]

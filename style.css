@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8eeee;
+}
+
+.header {
+    background-color: #9e5964;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.items {
+    width: 70%;
+    margin: 30px auto;
+}
+
+.items > div {
+    background-color: white;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.items p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #7d3c47;
+    margin-top: 0;
+}
+
+.features {
+    display: flex;
+    gap: 10px;
+}
+
+.features div {
+    background-color: #f6e1e4;
+    padding: 10px;
+    border-radius: 5px;
+}
