@@ -18,8 +18,8 @@ fetch("menu.json")
 
                 dic[item.mealName] = item.price;
             });
-            localStorage.setItem("menu", JSON.stringify(dic));
-
+            
+            localStorage.setItem("menu", JSON.stringify(data));
     })
 
 let items = document.querySelector(".items");
